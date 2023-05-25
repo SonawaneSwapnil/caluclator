@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@500&display=swap");
+.App {
+  font-family: Poppins;
+  width: 95%;
+  padding: 0 15;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.title {
+  font-weight: 700;
+}
+.slider {
+  width: 100%;
+}
+.lables {
+  display: flex;
+  justify-content: space-between;
+}
